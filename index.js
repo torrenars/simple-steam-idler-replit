@@ -23,7 +23,7 @@ user.on('loggedOn', () => {
 // var password2 = process.env.password2;
 // var shared_secret2 = process.env.shared2;
 
-// var games2 = [578080, 351940, 1515950, 319830, 1755910, 383180, 8500, 769920, 346290, 232770, 397720, 272060, 608990, 845070, 298180, 552990];  // Enter here AppIDs of the needed games
+// var games2 = [2073850, 1269260, 319830, 1515950, 1755910, 730, 383180, 1085660, 1294660, 8500, 532210, 769920, 346290, 232770, 578080, 397720, 272060, 608990, 845070, 351940, 298180, 339000, 2310610, 312150, 552990];  // Enter here AppIDs of the needed games
 // var status2 = 1;  // 1 - online, 7 - invisible
 
 
